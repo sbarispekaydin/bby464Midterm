@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BOOKS>
+    <book>
+        <BookId>1</BookId>
+        <ISBN>9786050917260</ISBN>
+        <Name>Nutuk</Name>
+        <PublishDate>2017</PublishDate>
+        <Pages>656</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+    <book>
+        <BookId>2</BookId>
+        <ISBN>9786050939828</ISBN>
+        <Name>Huzursuzluk</Name>
+        <PublishDate>2017</PublishDate>
+        <Pages>154</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>3</BookId>
+        <ISBN>9789750807411</ISBN>
+        <Name>Agri Dagi Efsanesi</Name>
+        <PublishDate>2007</PublishDate>
+        <Pages>130</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>4</BookId>
+        <ISBN>9789750724756</ISBN>
+        <Name>Yabanci</Name>
+        <PublishDate>2016</PublishDate>
+        <Pages>90</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>5</BookId>
+        <ISBN>9789754589030</ISBN>
+        <Name>Suc ve Ceza</Name>
+        <PublishDate>2015</PublishDate>
+        <Pages>705</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>6</BookId>
+        <ISBN>9789753638029</ISBN>
+        <Name>Kurk Mantolu Madonna</Name>
+        <PublishDate>2015</PublishDate>
+        <Pages>136</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>7</BookId>
+        <ISBN>9789751027689</ISBN>
+        <Name>Calikusu</Name>
+        <PublishDate>2007</PublishDate>
+        <Pages>408</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>8</BookId>
+        <ISBN>9789750826146</ISBN>
+        <Name>Masumiyet Muzesi</Name>
+        <PublishDate>2016</PublishDate>
+        <Pages>465</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>9</BookId>
+        <ISBN>9789750719356</ISBN>
+        <Name>Donusum</Name>
+        <PublishDate>2016</PublishDate>
+        <Pages>104</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>10</BookId>
+        <ISBN>9789750800665</ISBN>
+        <Name>Anayurt Oteli</Name>
+        <PublishDate>2016</PublishDate>
+        <Pages>91</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>11</BookId>
+        <ISBN>9789750726439</ISBN>
+        <Name>Simyacı</Name>
+        <PublishDate>2016</PublishDate>
+        <Pages>166</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>12</BookId>
+        <ISBN>9789750516832</ISBN>
+        <Name>Fakat Muzeyyen Bu Derin Bir Tutku</Name>
+        <PublishDate>2014</PublishDate>
+        <Pages>65</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>13</BookId>
+        <ISBN>9789750721571</ISBN>
+        <Name>Kirmizi Pazartesi</Name>
+        <PublishDate>2016</PublishDate>
+        <Pages>111</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>14</BookId>
+        <ISBN>9786050900286</ISBN>
+        <Name>Serenad</Name>
+        <PublishDate>2011</PublishDate>
+        <Pages>484</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+     <book>
+        <BookId>15</BookId>
+        <ISBN>9789754587029</ISBN>
+        <Name>Gurur ve Onyargi</Name>
+        <PublishDate>2013</PublishDate>
+        <Pages>408</Pages>
+        <Language>Turkish</Language>     
+    </Book>
+</BOOKS>
